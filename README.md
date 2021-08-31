@@ -52,7 +52,7 @@
 
   
 
-- 📫 How to reach me **ralfprezia@gmail.com**
+- 📫 How to reach me **hugo.veigav@gmail.com**
 
   
 
@@ -66,27 +66,26 @@
 
   
 
- <p align="left">
+ <span align="left">
 
-  <li align="center">
+  <span align="center">
 
-   <a class="url" href="https://www.linkedin.com/in/vitor-hugo-072177161/" img> 
-
-    Linkedin
+   <a class="url" href="https://www.linkedin.com/in/vitor-hugo-072177161/" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
    </a>
 
-  </li>
+  </span>
 
-  <li align="center">
+  <span align="center">
 
-   <a class="url" href="https://api.whatsapp.com/send?phone=5516992696840/" img> 
+   <a class="url" href="https://api.whatsapp.com/send?phone=5516992696840/" /> 
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     
 
    </a>
 
-  </li>
+  </span>
 
   
 
