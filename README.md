@@ -50,6 +50,17 @@
 
 </br>
 
+<h3 align="center"> ⚡ Database </h3>
+
+<div align="center">
+ <span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ </span>
+</div>
+
+</br>
+
 <h3 align="center"> 💻 OS </h3>
 
 <div align="center">
@@ -81,7 +92,7 @@
 
 </br>
 
-<h3 align="center">Connect / Contact with me:</h3>
+<h3 align="center"> 📱 Connect / Contact with me: </h3>
 
 <div align="center">
  <a class="url" href="https://www.linkedin.com/in/vitor-hugo-072177161/">
