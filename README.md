@@ -115,7 +115,7 @@
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vitor2128&count_private=true&show_icons=true&theme=tokyonight" />
  </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2128&show_icons=true&theme=tokyonight">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2128&theme=tokyonight" />
+   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor2128&theme=tokyonight" />
  </a>
 </div>
 
