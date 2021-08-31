@@ -83,7 +83,7 @@
 
 </br>
 
-<h3 align="center"> 👩‍💻 IDE </h3>
+<h3 align="center"> 👨‍ IDE </h3>
 
 <div align="center">
  <span>
