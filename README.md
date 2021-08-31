@@ -32,13 +32,7 @@
 
 <div align="center">
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfprezia&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
-
-  
-
-
 
 </div>
 
@@ -50,24 +44,19 @@
 
 <div align="center">
 
-  
-
-- 📫 How to reach me **hugo.veigav@gmail.com**
-
-  
+ <a class="url" href="mailto:hugo.veigav@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
 
 </div>
 
 
 
 
-
  <h3 align="center">Connect with me:</h3>
 
-  
 
  <div align="center">
-
    <a class="url" href="https://www.linkedin.com/in/vitor-hugo-072177161/"> 
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
@@ -75,7 +64,6 @@
    <a class="url" href="https://api.whatsapp.com/send?phone=5516992696840/"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    </a>
-
   </div>
 
   
@@ -144,7 +132,7 @@
 
   
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
 
 
 
