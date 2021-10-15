@@ -7,6 +7,11 @@
 
 <h3 align="center">Front-end and Back-end Developer Jr</h3>
 
+<div align="center">
+ <span>
+[![wakatime](https://wakatime.com/badge/user/ed68162b-d50d-48a2-9c02-90ec4bd5a556/project/d6678dd7-4f17-419b-bfa9-722831f74192.svg)](https://wakatime.com/badge/user/ed68162b-d50d-48a2-9c02-90ec4bd5a556/project/d6678dd7-4f17-419b-bfa9-722831f74192)
+  </span>
+ </div>
  <div align="center">
   <span>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
