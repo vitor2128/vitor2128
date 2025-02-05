@@ -5,7 +5,7 @@
 
 <h1 align="center">Welcome to my profile 👨‍💻</h1>
 
-<h3 align="center">Front-end and Back-end Developer Jr</h3>
+<h3 align="center">I'm Front-end and Back-end Developer</h3>
 
 <h3 align="center"> 📋 Languages </h3>
 
